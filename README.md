@@ -15,7 +15,7 @@ This notebook aims to be an alternative to WebUIs while offering a simple and li
 
 Uses Stable Diffusion, [HuggingFace](https://huggingface.co/) Diffusers and [Jupyter widgets](https://github.com/jupyter-widgets/ipywidgets).
 
-![GUI Screenshot](https://github.com/redromnon/stable-diffusion-interactive-notebook/assets/74495920/71c32ab8-96f0-4e1b-8f89-99fadbfb28c1)
+![GUI screenshot](https://github.com/redromnon/stable-diffusion-interactive-notebook/assets/74495920/461b23dc-ea92-4f11-b3a2-0593f51e2c43)
 
 ## Features
 - Interactive GUI interface
