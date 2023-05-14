@@ -32,3 +32,6 @@ Uses Stable Diffusion, [HuggingFace](https://huggingface.co/) Diffusers and [Jup
   - [UniPCMultistepScheduler](https://huggingface.co/docs/diffusers/api/schedulers/unipc)
 - Includes Safety Checker to enable/disable inappropriate content
 - Features [sd-vae-ft-mse](https://huggingface.co/stabilityai/sd-vae-ft-mse) Autoencoder for producing "smoother" images
+
+## Contributing
+Improvements and new features are most welcome! Feel free to submit a PR.
