@@ -35,3 +35,8 @@ Uses Stable Diffusion, [HuggingFace](https://huggingface.co/) Diffusers and [Jup
 
 ## Contributing
 Improvements and new features are most welcome! Feel free to submit a PR.
+
+1. Fork this repository
+2. Create a new branch
+3. Do your thing
+4. Create a Pull Request
